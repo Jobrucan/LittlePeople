@@ -1,2 +1,2 @@
 # LittlePeople
-Global Custom Site
+Hello world!!
